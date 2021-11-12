@@ -1,0 +1,18 @@
+.long-margin{
+  margin-top: 100px;
+}
+.self-radius{
+  border-radius: 20px;
+}
+.increase-font{
+  font-size: 40px;
+}
+.bottom-border{
+  border-bottom: 2px solid ;
+}
+.fa{
+  transition: 3s;
+}
+.fa:hover{
+  transform: translate(10px);
+}
